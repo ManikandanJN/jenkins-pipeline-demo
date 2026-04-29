@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Dashboard
 ![alt text](/screenshots/image.png)
 
-## Free style pipeline
+## Freestyle Project
 ![alt text](/screenshots/image-1.png)
 ![alt text](/screenshots/image-2.png)
 
@@ -13,7 +13,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Console Output - Failure
 ![alt text](/screenshots/image-4.png)
 
-## Pipeline Script
+## Pipeline Script Project
 ![alt text](/screenshots/image-5.png)
 
 ```bash
@@ -35,7 +35,7 @@ pipeline {
 ## Console output - Failure
 ![alt text](/screenshots/image-7.png)
 
-## Pipeline Script from SCM
+## Pipeline Script from SCM Project
 ![alt text](/screenshots/image-8.png)
 
 ## Console output - Success
