@@ -25,10 +25,10 @@ pipeline {
             }
         }
 
-        stage('Run Dev Server') {
-            steps {
-                bat 'npm run dev'
-            }
-        }
+        // stage('Run Dev Server') {
+        //     steps {
+        //         bat 'npm run dev'
+        //     }
+        // }
     }
 }
