@@ -52,11 +52,11 @@ pipeline {
 ![alt text](/screenshots/image-14.png)
 
 # Multi-Branch Pipeline
-![alt text](image.png)
-![alt text](image-2.png)
-![alt text](image-1.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](/screenshots/image-16.png)
+![alt text](/screenshots/image-17.png)
+![alt text](/screenshots/image-18.png)
+![alt text](/screenshots/image-19.png)
+![alt text](/screenshots/image-20.png)
 
 ## GitHub link: [`ManikandanJN`](https://github.com/ManikandanJN/jenkins-pipeline-demo.git)
 
