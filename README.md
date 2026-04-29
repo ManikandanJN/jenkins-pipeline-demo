@@ -1,7 +1,59 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Screenshots
+# Screenshots
+## Dashboard
 ![alt text](image.png)
+
+## Free style pipeline
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+## Console Output - Success
+![alt text](image-3.png)
+## Console Output - Failure
+![alt text](image-4.png)
+
+## Pipeline Script
+![alt text](image-5.png)
+
+```bash
+pipeline {
+    agent any
+
+    stages {
+        stage('Hello') {
+            steps {
+                echo 'Hello Manikandan'
+            }
+        }
+    }
+}
+```
+## Console output - Success
+![alt text](image-6.png)
+
+## Console output - Failure
+![alt text](image-7.png)
+
+## Pipeline Script from SCM
+![alt text](image-8.png)
+
+## Console output - Success
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
+
+### Pipeline overview
+
+
+## Console output - Failure
+![alt text](image-13.png)
+![alt text](image-14.png)
+
+
+## GitHub link: [`ManikandanJN`](https://github.com/ManikandanJN/jenkins-pipeline-demo.git)
+
 
 ## Getting Started
 
