@@ -2,19 +2,19 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 # Screenshots
 ## Dashboard
-![alt text](image.png)
+![alt text](/screenshots/image.png)
 
 ## Free style pipeline
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](/screenshots/image-1.png)
+![alt text](/screenshots/image-2.png)
 
 ## Console Output - Success
-![alt text](image-3.png)
+![alt text](/screenshots/image-3.png)
 ## Console Output - Failure
-![alt text](image-4.png)
+![alt text](/screenshots/image-4.png)
 
 ## Pipeline Script
-![alt text](image-5.png)
+![alt text](/screenshots/image-5.png)
 
 ```bash
 pipeline {
@@ -30,26 +30,26 @@ pipeline {
 }
 ```
 ## Console output - Success
-![alt text](image-6.png)
+![alt text](/screenshots/image-6.png)
 
 ## Console output - Failure
-![alt text](image-7.png)
+![alt text](/screenshots/image-7.png)
 
 ## Pipeline Script from SCM
-![alt text](image-8.png)
+![alt text](/screenshots/image-8.png)
 
 ## Console output - Success
-![alt text](image-9.png)
-![alt text](image-10.png)
-![alt text](image-11.png)
-![alt text](image-12.png)
+![alt text](/screenshots/image-9.png)
+![alt text](/screenshots/image-10.png)
+![alt text](/screenshots/image-11.png)
+![alt text](/screenshots/image-12.png)
 
 ### Pipeline overview
-
+![alt text](/screenshots/image-15.png)
 
 ## Console output - Failure
-![alt text](image-13.png)
-![alt text](image-14.png)
+![alt text](/screenshots/image-13.png)
+![alt text](/screenshots/image-14.png)
 
 
 ## GitHub link: [`ManikandanJN`](https://github.com/ManikandanJN/jenkins-pipeline-demo.git)
